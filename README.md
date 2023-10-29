@@ -1,4 +1,4 @@
-### Hi Hello Hi Hello Hi Hello Hi Hello :accessibility:
+### 👋!
 
 <!--
 **fuckindumbfox/fuckindumbfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# hello i'm some dude trying to learn coding and developing stuff from scratch hi hello! 👋👋
+hello i'm some dude trying to learn coding and developing stuff from scratch hi hello! 👋👋
 
 - 🔭 i'm currently working on ... absolutely nothing whoops
 - 🪴 i'm currently learing ... bit of python probably 'll try to learn javascript
