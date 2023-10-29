@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 hello i'm some dude trying to learn coding and developing stuff from scratch hi hello! 👋👋
 
 - 🔭 i'm currently working on ... absolutely nothing whoops
-- 🪴 i'm currently learing ... bit of python probably 'll try to learn javascript
+- 🪴 i'm currently learning ... bit of python probably 'll try to learn javascript
 - 📫 how to reach me: ... through my bluesky social account or through my twitter (x but i refuse to call it that 🙄)
 - 😁 pronounce: ... he' theys...
 - ⚡ fun fact! : **I am 100 meters from your location and aproaching rapidly.**
