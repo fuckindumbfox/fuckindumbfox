@@ -1,4 +1,4 @@
-### 👋!
+### Insert Title Here
 
 <!--
 **fuckindumbfox/fuckindumbfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hiiii, im ariel, computer science student
+hiiii im ariel
 
-**they/she**, trans rights
+computer science student
+
+
+
+**they/she**, trans rights 🏳️‍⚧️
 
 🔵 bluesky ☁ : [@fuckindumbfox.bsky.social](https://bsky.app/profile/fuckindumbfox.bsky.social)
+
+currently learning NOTHING , soon will start learning a programming lang that isnt PSeInt 💔😭
 
 
 
