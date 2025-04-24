@@ -1,4 +1,4 @@
-### Insert Title Here
+### profile readme, hooray!
 
 <!--
 **fuckindumbfox/fuckindumbfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,7 @@ computer science student
 **they/she**, trans rights 🏳️‍⚧️
 
 🔵 bluesky ☁ : [@fuckindumbfox.bsky.social](https://bsky.app/profile/fuckindumbfox.bsky.social)
+🟪 discord ☁ : @fuckindumbfox
 
 currently learning PYTHON!! , FINALLY MOVED ON FROM PSEINT.
 
