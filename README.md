@@ -24,7 +24,7 @@ computer science student
 
 🔵 bluesky ☁ : [@fuckindumbfox.bsky.social](https://bsky.app/profile/fuckindumbfox.bsky.social)
 
-currently learning NOTHING , soon will start learning a programming lang that isnt PSeInt 💔😭
+currently learning PYTHON!! , FINALLY MOVED ON FROM PSEINT.
 
 
 
