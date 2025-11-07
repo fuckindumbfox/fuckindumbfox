@@ -1,4 +1,4 @@
-### profile readme, hooray!
+### README.md
 
 <!--
 **fuckindumbfox/fuckindumbfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hiiii im ariel
+hiiii im sophie
 
 computer science student
 
@@ -25,7 +25,8 @@ computer science student
 🔵 bluesky ☁ : [@fuckindumbfox.bsky.social](https://bsky.app/profile/fuckindumbfox.bsky.social)
 🟪 discord ☁ : @fuckindumbfox
 
-currently learning PYTHON!! , FINALLY MOVED ON FROM PSEINT.
+~~currently learning PYTHON!! , FINALLY MOVED ON FROM PSEINT.~~
+LEARNING NIM !! WOOHOO
 
 
 
